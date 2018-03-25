@@ -1,5 +1,7 @@
-If you don't have chromedriver, get it here : https://chromedriver.storage.googleapis.com/index.html?path=2.37/.
+#Typing hacks
 
-Install chromedriver and change the path in exampe.py from : "/Users/*username*/Downloads/chromedriver" to your chromedriver destination.
+**If you don't have chromedriver, get it [here](https://chromedriver.storage.googleapis.com/index.html?path=2.37/.)** 
 
-Install selenium using pip install selenium ( use virtual environment (recommended) )
+Install chromedriver and change the path in -example-.py from : `"/Users/*username*/Downloads/chromedriver"` to your chromedriver destination.
+
+Install selenium using `pip install selenium` ( use virtual environment (recommended) )
