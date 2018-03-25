@@ -1,4 +1,4 @@
-#Typing hacks
+# Typing hacks
 
 **If you don't have chromedriver, get it [here](https://chromedriver.storage.googleapis.com/index.html?path=2.37/.)** 
 
