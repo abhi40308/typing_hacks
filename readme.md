@@ -1,5 +1,5 @@
 # Typing hacks
-Hacks to 2 major typing test websites: 10fastfingers and typeracer.
+Hacks to 2 major typing test websites: [10fastfingers](https://10fastfingers.com/) and [typeracer](https://play.typeracer.com/).
 
 **If you don't have chromedriver, get it [here](http://chromedriver.storage.googleapis.com/index.html?path=2.36/)** 
 
